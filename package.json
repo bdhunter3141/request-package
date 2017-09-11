@@ -1,0 +1,23 @@
+{
+  "name": "request-package",
+  "version": "1.0.0",
+  "description": "Experimenting with node's request package.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdhunter3141/request-package.git"
+  },
+  "author": "Bryan Hunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdhunter3141/request-package/issues"
+  },
+  "homepage": "https://github.com/bdhunter3141/request-package#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
